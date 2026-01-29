@@ -1,0 +1,273 @@
+/* === POUR ADD === */
+
+
+/* === Body === */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0d1b2a; /* dark blue background */
+    color: #ffffff; /* text white */
+    margin: 20px;
+}
+
+/* === Table === */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #1b263b; /* darker table background */
+    color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td {
+    border: 1px solid #415a77;
+    padding: 12px 15px;
+    text-align: center;
+}
+
+th {
+    background-color: #3282b8; /* blue header */
+    font-size: 16px;
+}
+
+/* === Form === */
+form {
+    width: 50%;
+    margin: 20px auto;
+    background-color: #1b263b;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #000;
+}
+
+form input[type="text"],
+form input[type="number"],
+form textarea,
+form input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0 15px 0;
+    border: 1px solid #415a77;
+    border-radius: 5px;
+    background-color: #0d1b2a;
+    color: #ffffff;
+}
+
+form textarea {
+    resize: vertical;
+}
+
+/* === Button === */
+button {
+    background-color: #3282b8; /* blue button */
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0f4c75; /* darker blue on hover */
+}
+
+/* === Images === */
+img {
+    max-width: 100px;
+    border-radius: 5px;
+}
+
+/* === Center headings === */
+h1 {
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+/* === Body === */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0d1b2a; /* dark blue background */
+    color: #ffffff; /* text white */
+    margin: 20px;
+}
+
+/* === Table === */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #1b263b; /* darker table background */
+    color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td {
+    border: 1px solid #415a77;
+    padding: 12px 15px;
+    text-align: center;
+}
+
+th {
+    background-color: #3282b8; /* blue header */
+    font-size: 16px;
+}
+
+/* === Form === */
+form {
+    width: 50%;
+    margin: 20px auto;
+    background-color: #1b263b;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #000;
+}
+
+form input[type="text"],
+form input[type="number"],
+form textarea,
+form input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0 15px 0;
+    border: 1px solid #415a77;
+    border-radius: 5px;
+    background-color: #0d1b2a;
+    color: #ffffff;
+}
+
+form textarea {
+    resize: vertical;
+}
+
+/* === Button === */
+button {
+    background-color: #3282b8; /* blue button */
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0f4c75; /* darker blue on hover */
+}
+
+/* === Images === */
+img {
+    max-width: 100px;
+    border-radius: 5px;
+}
+
+/* === Center headings === */
+h1 {
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+/* === Body === */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0d1b2a; /* dark blue background */
+    color: #ffffff; /* text white */
+    margin: 20px;
+}
+
+/* === Table === */
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    background-color: #1b263b; /* darker table background */
+    color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td {
+    border: 1px solid #415a77;
+    padding: 12px 15px;
+    text-align: center;
+}
+
+th {
+    background-color: #3282b8; /* blue header */
+    font-size: 16px;
+}
+
+/* === Form === */
+form {
+    width: 40%;
+    margin: 50px auto;
+    background-color: #1b263b;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #000;
+    text-align: center;
+}
+
+form input[type="text"],
+form input[type="password"],
+form input[type="number"],
+form textarea,
+form input[type="file"] {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0 15px 0;
+    border: 1px solid #415a77;
+    border-radius: 5px;
+    background-color: #0d1b2a;
+    color: #ffffff;
+}
+
+form textarea {
+    resize: vertical;
+}
+
+/* === Button === */
+button {
+    background-color: #3282b8; /* blue button */
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0f4c75; /* darker blue on hover */
+}
+
+/* === Error message === */
+.error {
+    color: #ff4d4d;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* === Headings === */
+h1 {
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+
